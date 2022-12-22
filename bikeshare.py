@@ -3,6 +3,7 @@ import time
 import pandas as pd
 import click
 import numpy as np
+#this is the bikeshare project
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv'}
